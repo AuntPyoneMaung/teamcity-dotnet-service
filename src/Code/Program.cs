@@ -19,9 +19,6 @@
                 x.SetDescription("Web Demo");
                 x.SetDisplayName("WebDemo");
                 x.SetServiceName("WebDemo");
-                //testc comment
-                // another ccommit
-                // comment
 
             });
         }
