@@ -19,6 +19,8 @@
                 x.SetDescription("Web Demo");
                 x.SetDisplayName("WebDemo");
                 x.SetServiceName("WebDemo");
+
+                // Jenkins Push job automated
             });
         }
     }
