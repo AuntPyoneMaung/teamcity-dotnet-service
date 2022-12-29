@@ -19,13 +19,7 @@
                 x.SetDescription("Web Demo");
                 x.SetDisplayName("WebDemo");
                 x.SetServiceName("WebDemo");
-<<<<<<< HEAD
-
-                // Jenkins Push job automated
-=======
-                // Testing Automation
-
->>>>>>> 19520dbcc2d83a49d7df04bcbc7784022589c8a1
+                // new comment
             });
         }
     }
